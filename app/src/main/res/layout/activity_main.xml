@@ -5,6 +5,12 @@
     android:layout_width="match_parent"
     android:layout_height="match_parent"
     tools:context=".MainActivity">
+<!-- cách 1 : tạo ra thẻ view sẽ chứa 1 view khác -->
+   <TextView>
+
+   </TextView>
+    <!--cách 2 : tạo thẻ view dùng hiển thị-->
+    <TextView/>
 
     <TextView
         android:layout_width="wrap_content"
